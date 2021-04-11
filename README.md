@@ -11,14 +11,7 @@
 ## Project Name
 Global AI Hub Python course's homeworks and final project.
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
 
-### Certification
-![](img/TopLearnerCertificate.png)
+
+
 
